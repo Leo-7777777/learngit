@@ -3,3 +3,4 @@ Git is free software distributed under the GPL..
 test
 test 1
 Git has a mutable index called stage.
+change 1 
